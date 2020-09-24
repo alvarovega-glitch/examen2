@@ -1,0 +1,98 @@
+body{
+	font-size: Segoe UI;
+	font-size: 15px;
+	color: #777;
+}
+header{
+	position: relative;
+	background-color: #282932;
+	width: 100%;
+	top:0;
+	border-bottom: 1px dashed rgba(255, 255, 255, 0.15);
+}
+footer{
+	background-color: #282932;
+	background-image: url(../img/footer-bg.png);
+	background-size: cover;
+	padding-top: 40px;
+	color: rgba(255, 255, 255, 0.55);
+	text-align: center;
+	font-size: 13px;
+	font-weight: 600;
+}
+footer p span{
+	color: #f7b614;
+}
+footer #copy{
+	padding: 20px 0;
+	margin-top: 5%;
+	color: #fff;
+	border-top: 1px dashed rgba(255, 255, 255, 0.15);
+}
+
+#hero{
+background-image:
+url("../img/slider-glob.png");
+background-color:#282932; 
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+text-align: left;
+color: #FFF;
+padding: 10% 0;    
+border-bottom-right-radius: 100%;
+border-bottom-left-radius: 2.5%;
+
+}
+
+#Popular-Goods h1{
+text-align: center;
+}
+
+#Popular-Goods p1{
+text-align: center;
+color:#f7b614;
+}
+
+#Popular-Goods h3{
+text-align: center;
+}
+#Popular-Goods{
+text-align: center;
+padding-bottom: 50px;
+}
+#Sit-At-Home{
+background-image: url("../img/footer-bg.png");
+background-color:#282932; 
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+text-align: left;
+color: #FFF;
+padding-left: 50px;
+padding-top: 50px;
+}
+
+#Sit-At-Home p{
+text-align: center;
+}
+#Sit-At-Home h2{
+text-align: left;
+color:#f7b614;
+}
+
+#Sit-At-Home p1{
+text-align:justify;
+}
+
+#Sit-At-Home .img{
+align:  center;
+}
+
+#CTA-Suscribe{
+background-image: url("../img/footer-bg.png");
+background-color: #f7b614; 
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
